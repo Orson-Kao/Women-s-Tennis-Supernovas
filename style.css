@@ -62,12 +62,17 @@ background-color: #020838;
 display: inline-block;
 width:100px;
 height: 100px;
+margin: 0 auto;
+margin-left: 20%;
 padding:10px;
 
 }
-
+.contact-option{
+    color: #616161;
+}
 #contact-title{
     text-align: center;
+    padding: 10px;
 }
 
 
