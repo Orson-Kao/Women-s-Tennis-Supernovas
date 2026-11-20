@@ -2,6 +2,12 @@
   box-sizing: border-box;
 }
 
+#logo{
+    align-items: center;
+    width:  40.5%;
+    height: 67.6%;
+    margin-left: 30%;
+}
 
 
 header{   
@@ -11,7 +17,7 @@ header{
     color: #ffffff;
     
 }
-#logo{
+#title{
     width: 100%;
     height: auto;
     display: flex;
@@ -35,4 +41,22 @@ height: 100%;
 padding: 1%;
 margin: 10px;
 
+}
+
+#faq-title{
+   color: #616161;
+   text-align: center; 
+}
+.card{
+
+
+}
+
+footer{
+    width:auto;
+    height: auto;
+    background-color: #232323d8;
+    color: #6e6969;
+    padding: 1px;
+    text-align: center;
 }
