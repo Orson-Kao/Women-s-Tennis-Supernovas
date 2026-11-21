@@ -2,13 +2,14 @@
   box-sizing: border-box;
 }
 
-#logo{
+/* #logo{
     align-items: center;
-   
+  
     width:  40.5%;
     height: 67.6%;
     margin-left: 30%;
-}
+} */
+
 
 .solitreo-regular {
   font-family: "Solitreo", cursive;
@@ -37,6 +38,16 @@ header{
     align-items: center;
     }
 
+.main-index{
+    background-image: url('images/IMG_5686.png');
+    background-size: cover;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-repeat: no-repeat;
+   
+
+}
 .nav-link{
     background-color: #ffffff;
     color:#ffffff;
